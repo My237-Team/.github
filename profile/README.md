@@ -15,15 +15,15 @@
 
 ### 网站链接
 
-- [62.234.86.52:3000](http://62.234.86.52:3000)
+- [server.aqiu.space:3000](http://server.aqiu.space:3000)
 
 ### API 端口
 
-- [62.234.86.52:1337](http://62.234.86.52:3000)
+- [server.aqiu.space:1337](http://server.aqiu.space:1337)
 
 ### 管理员后台链接
 
-- [Strapi 管理后台](http://62.234.86.52:3000/admin)
+- [Strapi 管理后台](http://server.aqiu.space:1337/admin)
 
 ## 设计与文档链接
 
