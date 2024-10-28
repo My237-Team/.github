@@ -1,5 +1,5 @@
 
-# 在线音乐器材购买平台
+# 在线音乐器材购买平台——Sonic Store——Online Instrument Shop
 
 ## 项目简介
 
