@@ -1,15 +1,15 @@
 
-# 在线音乐器材购买平台——Sonic Store——Online Instrument Shop
+# Online Instrument Shop - Sonic Store
 
-## 项目简介
+## Project Overview
 
-本项目是一个在线音乐器材购买平台，用户可以通过该平台浏览和购买各类音乐器材。平台支持用户登录、产品浏览、购物车管理、订单提交和历史订单查看等功能。我们使用了现代的前后端技术栈和自动化部署方案，确保系统的高效、稳定运行。
+This project is an online platform for purchasing musical instruments, where users can browse and buy various types of musical equipment. The platform supports user login, product browsing, shopping cart management, order submission, and viewing of historical orders. We have utilized modern front-end and back-end technology stacks along with automated deployment solutions to ensure efficient and stable system operation.
 
-## 技术栈
+## Technology Stack
 
-- **前端**: React, Next.js, TailwindCSS, Zustand, SSR（服务器端渲染）
-- **后端**: Node.js, Strapi, PostgreSQL
-- **部署**: Docker Compose, Github Actions (CI/CD)
+- **Front-end**: React, Next.js, TailwindCSS, Zustand, SSR (Server-Side Rendering)
+- **Back-end**: Node.js, Strapi, PostgreSQL
+- **Deployment**: Docker Compose, Github Actions (CI/CD)
 
 ## 访问链接
 
